@@ -1,2 +1,2 @@
 # soon_countdown
-countdown clock.
+trip countdown 
