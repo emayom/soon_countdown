@@ -1,2 +1,2 @@
-# soon_countdown
+# soon
 trip countdown 
